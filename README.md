@@ -49,3 +49,4 @@ $ ./bin/phpunit
 
 
 test
+mytestlocal
